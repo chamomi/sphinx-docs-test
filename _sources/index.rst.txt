@@ -24,6 +24,8 @@ Contents
 --------
 
 .. toctree::
-   :maxdepth: 1
+   :titlesonly:
 
    usage
+   area1/area1.rst
+   area2/area-2.rst
