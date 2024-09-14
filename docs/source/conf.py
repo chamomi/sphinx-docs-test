@@ -23,7 +23,7 @@ exclude_patterns = [
 ]
 
 rst_epilog = """
-.. include:: substitutions.sub
+.. include:: /substitutions.sub
 """
 
 # -- Options for HTML output -------------------------------------------------
