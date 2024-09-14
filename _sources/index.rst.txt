@@ -11,6 +11,8 @@ creates recipes mixing random ingredients.  It pulls data from the `Open Food
 Facts database <https://world.openfoodfacts.org/>`_ and offers a *simple* and
 *intuitive* API.
 
+Created in |ww|.
+
 Check out the :doc:`usage` section for further information, including how to
 :ref:`install <installation>` the project.
 
@@ -22,5 +24,6 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 1
 
    usage
