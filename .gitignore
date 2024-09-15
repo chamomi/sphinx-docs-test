@@ -1,2 +1,5 @@
 
 /docs/build
+/docs/source/source-code
+/docs/source/generated
+/source-code/__pycache__

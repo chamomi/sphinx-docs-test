@@ -25,7 +25,9 @@ Contents
 
 .. toctree::
    :titlesonly:
+   :includehidden:
 
    usage
+   api
    area1/area1.rst
    area2/area-2.rst
